@@ -5,6 +5,7 @@
  :computer:  ***Stack:*** 
  -  HTML
  -  CSS
+ -  SCSS/Sass
  -  Javascript
   
  ***Contact me:***
