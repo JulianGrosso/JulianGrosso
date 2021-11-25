@@ -5,9 +5,9 @@
  :computer:  ***Stack:*** 
  -  HTML
  -  CSS
- -  SCSS/Sass
+ -  Sass
  -  Javascript
- -  React
+ -  React Js
  -  Styled Components
   
  ***Contact me:***
