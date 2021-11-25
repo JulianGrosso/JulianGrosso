@@ -1,12 +1,14 @@
 # Hello, I'm Julian! 👋
 
-## Frontend Dev Treinee
+## Frontend Dev
 
  :computer:  ***Stack:*** 
  -  HTML
  -  CSS
  -  SCSS/Sass
  -  Javascript
+ -  React
+ -  Styled Components
   
  ***Contact me:***
  <br>
