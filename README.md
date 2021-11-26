@@ -1,6 +1,6 @@
 # Hello, I'm Julian! 👋
 
-## Frontend Dev
+## Frontend Web Developer
 
  :computer:  ***Stack:*** 
  -  HTML
