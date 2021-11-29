@@ -6,7 +6,7 @@
  -  HTML
  -  CSS
  -  Sass
- -  Javascript
+ -  JavaScript
  -  React Js
  -  Styled Components
   
