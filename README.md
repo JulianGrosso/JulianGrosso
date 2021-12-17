@@ -3,12 +3,13 @@
 ## Frontend Web Developer
 
  :computer:  ***Stack:*** 
+ -  React Js
+ -  Styled Components
  -  HTML
  -  CSS
  -  Sass
  -  JavaScript
- -  React Js
- -  Styled Components
+ 
   
  ***Contact me:***
  <br>
