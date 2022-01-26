@@ -2,14 +2,17 @@
 
 ## Frontend Web Developer
 
- :computer:  ***Stack:*** 
- -  React Js
- -  Styled Components
+ :computer:  ***Languages and Tools:*** 
+ -  React
+ -  JavaScript
  -  HTML
  -  CSS
  -  Sass
- -  JavaScript
- 
+ -  Styled Components
+ -  Three.js
+ -  Git
+ -  GitHub
+ -  Figma 
   
  ***Contact me:***
  <br>
