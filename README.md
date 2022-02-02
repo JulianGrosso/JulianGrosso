@@ -2,7 +2,7 @@
 
 ## Frontend Web Developer
 
- :computer:  ***Languages and Tools:*** 
+ :computer:  ***Languages & Tools:*** 
  -  React
  -  JavaScript
  -  HTML
