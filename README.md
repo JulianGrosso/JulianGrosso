@@ -22,4 +22,4 @@
 
 ### Pinned Projects
 
-<a href="https://juliangrosso.github.io/PasswordSafe/"><img src="./assets/JG_projectShowcase.gif" width="auto" height="auto"></a>
+<a href="https://www.linkedin.com/in/juliangrosso/"><img src="./assets/JG_projectShowcase.gif" width="auto" height="auto"></a>
