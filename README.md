@@ -4,19 +4,19 @@
 
 ### :computer:  ***Languages & Tools:*** 
 <br>
-**Front-end:**
+**Front-end:**<br>
 JavaScript | HTML | CSS<br>
 React.js | Next.js<br>
 Sass | Styled-Components | Three.js<br>
 Figma<br>
 <br>
-**Back-end:**
+**Back-end:**<br>
 NodeJS | Firebase | MongoDB
 <br>
-***Data-Science:**
+***Data-Science:**<br>
 Pyton | MySQL
 <br>
-**Projects tools:**
+**Projects tools:**<br>
 Git | GitHub
 <br>
 <br>
