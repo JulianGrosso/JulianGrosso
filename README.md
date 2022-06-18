@@ -5,21 +5,22 @@
 ### :computer:  ***Languages & Tools:*** 
 
 #### Front-end:
-JavaScript | HTML | CSS
-React.js | Next.js
-Sass | Styled-Components | Three.js
-Figma
+JavaScript | HTML | CSS<br>
+React.js | Next.js<br>
+Sass | Styled-Components | Three.js<br>
+Figma<br>
 
 #### Back-end:
 NodeJS | Firebase | MongoDB
 
 #### Data-Science:
 Pyton | MySQL
-<br>
+
+#### Projects tools:
 Git | GitHub
 <br>
-***Contact me:***
 <br>
+***Contact me:***
 ### <img src="https://i.postimg.cc/1tWpxw42/LI-In-Bug.png" width=20> [Julian Grosso](https://www.linkedin.com/in/juliangrosso/)
 
 ### Projects
