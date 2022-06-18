@@ -2,19 +2,21 @@
 
 ## Frontend Web Developer | Javascript | ReactJs
 
-### :computer:  ***Languages & Tools:*** 
-<br>
+### :computer:  ***Languages & Tools:***
 **Front-end:**<br>
 JavaScript | HTML | CSS<br>
 React.js | Next.js<br>
 Sass | Styled-Components | Three.js<br>
-Figma<br>
+Figma
+<br>
 <br>
 **Back-end:**<br>
 NodeJS | Firebase | MongoDB
 <br>
-***Data-Science:**<br>
+<br>
+**Data-Science:**<br>
 Pyton | MySQL
+<br>
 <br>
 **Projects tools:**<br>
 Git | GitHub
