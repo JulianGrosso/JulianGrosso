@@ -1,6 +1,6 @@
 # Hi, I'm Julian! 👋
 
-## Frontend Web Developer | Javascript | ReactJs
+## Software Developer | Data Engineer | Data Analyst
 
 ### :computer:  ***Languages & Tools:***
 **Front-end:**<br>
@@ -14,8 +14,8 @@ Figma
 NodeJS | Firebase | MongoDB
 <br>
 <br>
-**Data-Science:**<br>
-Pyton | MySQL
+**Data Engineer // Data Analyst:**<br>
+Pyton | SQL | Spark | Scala | PowerBI | NiFi
 <br>
 <br>
 **Projects tools:**<br>
